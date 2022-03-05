@@ -198,7 +198,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>Dripzz</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>$$$ Dripzz $$$</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
